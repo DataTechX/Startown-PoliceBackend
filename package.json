@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.4.1",
+    "discord-oauth2": "^2.11.0",
+    "discord.js": "^14.13.0",
+    "fastify": "^4.24.3",
+    "mongodb": "^6.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  }
+}
